@@ -1,5 +1,9 @@
 Module Name: Data Science Programming
 
+
+Brief / Content:
+• This task consists of a real world full data exploration activity, including exploratory data analysis, merging relational data, data pre- processing and clean-up.
+
 Task:
 
 Olympic Games (50%)
