@@ -53,12 +53,3 @@
   - Create a new dataframe called 'new_df'.
   - Perform correlation analysis and plot results in R.
 
----
-
-## Symbols for Formatting
-
-- Use `#` for headers.
-- Use `-` or `*` for bullet points.
-- Use triple backticks (```) for code blocks.
-- Use `_` or `*` for _italics_ and `**` for **bold**.
-
